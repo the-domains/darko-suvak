@@ -1,0 +1,28 @@
+name: Darko Suvak
+favicon: null
+layout_spectrum: 0.5441129959654063
+typography_spectrum: 0.39950564969331026
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3178107482381165
+  lightness: 0.45460314815863967
+  saturation: 0.8088371558114886
+  rhythmicContrast: 0.7426938686985523
+purpose: []
